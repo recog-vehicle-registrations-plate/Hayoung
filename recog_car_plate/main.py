@@ -327,8 +327,11 @@ def another_thresholding_to_fine_chars():
         # img_result = cv2.GaussianBlur(img_result, ksize=(3, 3), sigmaX=0)
         # _, img_result = cv2.threshold(img_result, thresh=0.0, maxval=255.0, type=cv2.THRESH_BINARY | cv2.THRESH_OTSU)
         # img_result = cv2.copyMakeBorder(img_result, top=10, bottom=10, left=10, right=10, borderType=cv2.BORDER_CONSTANT, value=(0,0,0))
-
-        chars = pytesseract.image_to_string(img_result, lang='eng', config='--psm 7 --oem 0')
+        img_result = cv2.copyMakeBorder(img_result, top=10, bottom=10, left=10, right=10,
+                                        borderType=cv2.BORDER_CONSTANT, value=(0, 0, 0))
+        conf = ('--tessdata-dir "/usr/share/tesseract-ocr/4.00/tessdata" --oem 0 --psm 7')
+        chars = pytesseract.image_to_string(img_result, lang='eng', config=conf)
+        #chars = pytesseract.image_to_string(img_result, lang='eng', config='--psm 7 --oem 0')
 
         result_chars = ''
         has_digit = False
@@ -353,12 +356,13 @@ def another_thresholding_to_fine_chars():
 if __name__=="__main__":
     empty_cnt=0
     tot=0
-    for dir in os.listdir("/images"):
+    for dir in os.listdir('/home/pirl/Documents/recog-vehicle-registrations-plate/Hayoung/recog_car_plate/images'):
+
         #print(dir)
-        for fname in os.listdir("/home/pirl/PycharmProjects/recog_car_plate/images/"+dir):
+        for fname in os.listdir("/home/pirl/Documents/recog-vehicle-registrations-plate/Hayoung/recog_car_plate/images/"+dir):
             tot+=1 # checking total file number
 
-            f='/home/pirl/PycharmProjects/recog_car_plate/images/'+dir+"/"+fname
+            f='/home/pirl/Documents/recog-vehicle-registrations-plate/Hayoung/recog_car_plate/images/'+dir+"/"+fname
             #print(f)
 
             read_input_image(f)
@@ -387,6 +391,7 @@ if __name__=="__main__":
                 empty_cnt+=1
             else:
                 print(result_chars)
+
 
 
     print("Percentage of detection : ", (tot-empty_cnt)/tot)

@@ -25,7 +25,33 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/recog-vehicle-registrations-plate/Hayoung" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Documents/recog-vehicle-registrations-plate/Hayoung" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="recog_car_plate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/recog-vehicle-registrations-plate/Hayoung/recog_car_plate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/recog-vehicle-registrations-plate/Hayoung/recog_car_plate/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="recog_car_plate" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -87,22 +114,22 @@
       <screen x="39" y="27" width="1881" height="1053" />
     </state>
     <state x="769" y="470" key="Github.CreateGistDialog/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580185551953" />
-    <state width="929" height="278" key="GridCell.Tab.0.bottom" timestamp="1580184766450">
+    <state width="1858" height="278" key="GridCell.Tab.0.bottom" timestamp="1580272551515">
       <screen x="39" y="27" width="1881" height="1053" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.bottom/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580184766450" />
-    <state width="929" height="278" key="GridCell.Tab.0.center" timestamp="1580184766450">
+    <state width="1858" height="278" key="GridCell.Tab.0.bottom/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580272551515" />
+    <state width="1858" height="278" key="GridCell.Tab.0.center" timestamp="1580272551515">
       <screen x="39" y="27" width="1881" height="1053" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.center/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580184766450" />
-    <state width="929" height="278" key="GridCell.Tab.0.left" timestamp="1580184766450">
+    <state width="1858" height="278" key="GridCell.Tab.0.center/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580272551515" />
+    <state width="1858" height="278" key="GridCell.Tab.0.left" timestamp="1580272551515">
       <screen x="39" y="27" width="1881" height="1053" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.left/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580184766450" />
-    <state width="929" height="278" key="GridCell.Tab.0.right" timestamp="1580184766450">
+    <state width="1858" height="278" key="GridCell.Tab.0.left/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580272551515" />
+    <state width="1858" height="278" key="GridCell.Tab.0.right" timestamp="1580272551515">
       <screen x="39" y="27" width="1881" height="1053" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.right/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580184766450" />
+    <state width="1858" height="278" key="GridCell.Tab.0.right/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580272551515" />
     <state x="468" y="187" key="SettingsEditor" timestamp="1580185536998">
       <screen x="39" y="27" width="1881" height="1053" />
     </state>

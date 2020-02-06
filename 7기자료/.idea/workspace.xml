@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308e5a16-39b3-41f1-9aa7-00d0aeba4743" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VAW5hZnXuR4zyprBky3t3uEiE2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../recog-vehicle-registrations-plate" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/character_training" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.image_histo">
+    <configuration name="크기 구하는 파이썬 파일" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LP_detection_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/크기 구하는 파이썬 파일.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_histo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LP_detection_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image_histogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_histogram/image_histo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_chr_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LP_detection_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_chr_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sliding_crop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LP_detection_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/license_plate/sliding_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/license_plate/sliding_window/sliding_crop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sliding_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LP_detection_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/license_plate/sliding_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/license_plate/sliding_window/sliding_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.image_histo" />
+        <item itemvalue="Python.main_chr_extraction" />
+        <item itemvalue="Python.sliding_test" />
+        <item itemvalue="Python.sliding_crop" />
+        <item itemvalue="Python.크기 구하는 파이썬 파일" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308e5a16-39b3-41f1-9aa7-00d0aeba4743" name="Default Changelist" comment="" />
+      <created>1576696197088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576696197088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580957434281">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state x="762" y="310" width="424" height="484" key="FileChooserDialogImpl/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580957434281" />
+    <state width="1858" height="286" key="GridCell.Tab.0.bottom" timestamp="1580954725800">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state width="1897" height="286" key="GridCell.Tab.0.bottom/39.27.1881.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580782330464" />
+    <state width="1858" height="286" key="GridCell.Tab.0.bottom/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580954725800" />
+    <state width="1858" height="286" key="GridCell.Tab.0.center" timestamp="1580954725800">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state width="1897" height="286" key="GridCell.Tab.0.center/39.27.1881.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580782330464" />
+    <state width="1858" height="286" key="GridCell.Tab.0.center/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580954725800" />
+    <state width="1858" height="286" key="GridCell.Tab.0.left" timestamp="1580954725800">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state width="1897" height="286" key="GridCell.Tab.0.left/39.27.1881.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580782330464" />
+    <state width="1858" height="286" key="GridCell.Tab.0.left/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580954725800" />
+    <state width="1858" height="286" key="GridCell.Tab.0.right" timestamp="1580954725800">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state width="1897" height="286" key="GridCell.Tab.0.right/39.27.1881.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580782330464" />
+    <state width="1858" height="286" key="GridCell.Tab.0.right/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580954725800" />
+    <state x="468" y="187" key="SettingsEditor" timestamp="1580710835625">
+      <screen x="39" y="27" width="1881" height="1053" />
+    </state>
+    <state x="468" y="187" key="SettingsEditor/39.27.1881.1053/1920.0.1920.1080@39.27.1881.1053" timestamp="1580710835625" />
+  </component>
+</project>
